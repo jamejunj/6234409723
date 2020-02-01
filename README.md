@@ -26,7 +26,10 @@ $ git add *
 ```shell
 $ git commit -m "ข้อความอะไรก็ได้"
 ```
-
+7. ทำการ push ไฟล์
+```shell
+$ git push -u origin master
+```
 ## สำหรับการส่งงานที่ห้อง LAB เป็นครั้งแรก
 
 1. ดาวน์โหลด git bash จากอินเทอร์เน็ต
@@ -56,7 +59,7 @@ $ git commit -m "ข้อความอะไรก็ได้"
 ```shell
 $ git remote add origin https://github.com/*username*/*student_id*.git
 ```
-9. ทำการ push ไฟล์ส่งไปยังเครื่อง
+9. ทำการ push ไฟล์
 ```shell
 $ git push -u origin master
 ```
