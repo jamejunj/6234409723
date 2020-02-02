@@ -64,3 +64,19 @@ $ git remote add origin https://github.com/*username*/*student_id*.git
 $ git push -u origin master
 ```
 
+## ภาคผนวก
+ก. เราใช้คำสั่ง ```git status``` ในการดูสถานะของไฟล์
+```shell
+$ git status
+```
+ข. เราใช้คำสั่ง ``git config --list``` ในการตรวจสอบการตั้งค่าทั้งหมด
+```shell
+$ git config --list
+```
+ค. เราใช้คำสั่ง ``git remote -v``` ในการตรวจสอบ remote ทั้งหมด
+```shell
+$ git remote -v
+```
+
+## เอกสารอ้างอิง
+Scott Chacon, and Ben Straub. (2014). **[Pro Git](https://git-scm.com/book/en/v2 "Git E-book")**. Apress.
