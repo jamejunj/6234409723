@@ -5,7 +5,7 @@
 ## สำหรับการส่งงานที่ห้อง LAB ในครั้งต่อๆ ไป
 
 1. ดาวน์โหลด git bash จากอินเทอร์เน็ต
-[ดาวน์โหลด]{:target="_blank"}(https://git-scm.com/downloads "Download git")
+[ดาวน์โหลด](https://git-scm.com/downloads "Download git"){:target="_blank"}
 
 2. ทำการติดตั้งให้เรียบร้อย
 3. ทำการ config ชื่อผู้ใช้ และ อีเมล์
@@ -79,4 +79,4 @@ $ git remote -v
 ```
 
 ## เอกสารอ้างอิง
-Scott Chacon, and Ben Straub. (2014). **[Pro Git]{:target="_blank"}(https://git-scm.com/book/en/v2 "Git E-book")**. Apress.
+Scott Chacon, and Ben Straub. (2014). **[Pro Git](https://git-scm.com/book/en/v2 "Git E-book"){:target="_blank"}**. Apress.
