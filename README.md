@@ -69,11 +69,11 @@ $ git push -u origin master
 ```shell
 $ git status
 ```
-ข. เราใช้คำสั่ง ``git config --list``` ในการตรวจสอบการตั้งค่าทั้งหมด
+ข. เราใช้คำสั่ง ```git config --list``` ในการตรวจสอบการตั้งค่าทั้งหมด
 ```shell
 $ git config --list
 ```
-ค. เราใช้คำสั่ง ``git remote -v``` ในการตรวจสอบ remote ทั้งหมด
+ค. เราใช้คำสั่ง ```git remote -v``` ในการตรวจสอบ remote ทั้งหมด
 ```shell
 $ git remote -v
 ```
